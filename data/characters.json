@@ -1,0 +1,7 @@
+{
+  "naru": {"name":"Naru","role":"young green turtle hero","silhouette":"heart-shaped shell and long front flippers","voice":"curious forward lean and bright shell taps"},
+  "mara": {"name":"Mara","role":"elder hawksbill navigator","silhouette":"serrated amber shell and short beak","voice":"measured pauses and dry wit"},
+  "pip": {"name":"Pip","role":"rescued hatchling","silhouette":"tiny round shell and oversized flippers","voice":"rapid bobs and brave interruptions"},
+  "oru": {"name":"Oru","role":"injured leatherback gardener","silhouette":"long ridged dark shell, bandaged left flipper","voice":"slow gestures and gentle botanical metaphors"},
+  "sela": {"name":"Sela","role":"loggerhead salvager","silhouette":"broad copper head and nicked shell","voice":"bold poses masking worry"}
+}

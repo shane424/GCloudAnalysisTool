@@ -1,0 +1,8 @@
+.godot/
+build/windows/
+build/linux/
+*.tmp
+*.bak
+.DS_Store
+# Godot regenerates import metadata; keep review patches source-only.
+*.import
