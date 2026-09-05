@@ -1,0 +1,12 @@
+{
+ "resource_total": 30,
+ "islands": [
+  {"id":"sanctuary","name":"Moonpool Haven","mechanic":"upgrades and evolving character quests","target_minutes":35,"activities":["hatchling_rescue","debris_clearing"]},
+  {"id":"driftwood_cay","name":"Driftwood Cay","mechanic":"tides, rescue carries, shell mechanisms","target_minutes":45,"activities":["tide_path","gull_rescue","shell_gate"]},
+  {"id":"lumen_reef","name":"Lumen Reef","mechanic":"dive depth, reef-light routing, currents","target_minutes":55,"activities":["light_chain","reef_garden","current_trial"]},
+  {"id":"mangrove_maze","name":"Whisperroot Isles","mechanic":"observation, reflected patterns, branching waterways","target_minutes":55,"activities":["nest_watch","root_pattern","mudflat_rescue"]},
+  {"id":"tempest_eye","name":"The Tempest Eye","mechanic":"all mechanics remixed without mandatory timer","target_minutes":45,"activities":["migration_route","storm_heart"]}
+ ],
+ "upgrade_cost_total": 17,
+ "completion_buffer": 13
+}

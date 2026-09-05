@@ -1,0 +1,7 @@
+{
+ "hero_clips":["idle","crawl","swim","sprint_swim","turn","dive","surface","interact","push","rest","celebrate","take_damage","recover","emotion_curiosity","emotion_worry","emotion_relief","emotion_determination","emotion_playful"],
+ "blend_parameters":["speed","turn_rate","depth","water_blend","slope_normal","current_strength","emotion"],
+ "procedural_layers":["body_banking","front_flipper_current_adjustment","rear_flipper_slope_adjustment","terrain_alignment","buoyancy_waterline_transition"],
+ "lod_triangles":{"lod0":[18000,24000],"lod1":[8000,12000],"lod2":[2000,4000]},
+ "collision":["simplified_convex_movement_hull","interaction_area"]
+}
